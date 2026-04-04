@@ -1,23 +1,279 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "files": [
     {
+      "name": "abandoned_urban-1.1.0-forge-1.20.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/abandoned_urban-1.1.0-forge-1.20.1.jar",
+      "sha256": "15e9d49101f946faf8b08eb0320d161afcb184379e78f777a8c9e6d0ac211a31",
+      "size": 244395
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+      "size": 26350793
+    },
+    {
+      "name": "BadMobs-1.20.1-19.0.4.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/BadMobs-1.20.1-19.0.4.jar",
+      "sha256": "b36e64f510404c0984d7d5358e6e99937516d0eeab3ec534eaa638c8b29dfd85",
+      "size": 10425
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.38-all.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/balm-forge-1.20.1-7.3.38-all.jar",
+      "sha256": "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08",
+      "size": 591397
+    },
+    {
+      "name": "chat_heads-0.15.0-forge-1.20.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/chat_heads-0.15.0-forge-1.20.jar",
+      "sha256": "d35e37f89c72dcdff90b9067c240aca75125ffd4232cfbe60bc096046d833a2d",
+      "size": 722765
+    },
+    {
+      "name": "citadel-2.6.3-1.20.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "size": 3185275
+    },
+    {
+      "name": "coroutil-forge-1.20.1-1.3.7.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+      "size": 64187
+    },
+    {
+      "name": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "sha256": "2c5e9efe5b256b35be24dafea2f8e26e829793fc144e95eeceabf9f1f4e601f2",
+      "size": 1143788
+    },
+    {
+      "name": "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+      "sha256": "2590c1a56b1a6c8236d460d637da5fdddf4e2c6a0bc70b9a78c762f3e75e428b",
+      "size": 4726286
+    },
+    {
+      "name": "exposure-1.20.1-1.7.16-forge.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/exposure-1.20.1-1.7.16-forge.jar",
+      "sha256": "55a8351bffc41b0d4a520d004c05561d4d76c1a1128f364bd4a44251c00f1de9",
+      "size": 1360685
+    },
+    {
+      "name": "FallingTree-1.20.1-4.3.4.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/FallingTree-1.20.1-4.3.4.jar",
+      "sha256": "5fb64717c368c2759e768873424a46ee5c40076600feadaac5403ca197aebe0f",
+      "size": 420179
+    },
+    {
+      "name": "gravestone-forge-1.20.1-1.0.35.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/gravestone-forge-1.20.1-1.0.35.jar",
+      "sha256": "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85",
+      "size": 317181
+    },
+    {
+      "name": "Hordes-forge-1.20.1-0.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Hordes-forge-1.20.1-0.jar",
+      "sha256": "823892d53920bebcaada79722d2d7566e56ef85126e5b9a106ab30f1bd705af8",
+      "size": 16919
+    },
+    {
+      "name": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "sha256": "b88353d6efe18635bac2d4169e704320987e9678fd683217195dcdcf2c1ca1ba",
+      "size": 2269048
+    },
+    {
+      "name": "InfiniteLava-Forge-1.20.1-v1.0.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/InfiniteLava-Forge-1.20.1-v1.0.1.jar",
+      "sha256": "eaedf62dfca753a7b41d4d3b17205aeca91ad300f5ee0282e70ae23bb814d71c",
+      "size": 4241
+    },
+    {
+      "name": "Jade-1.20.1-Forge-11.13.2.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
+      "size": 552486
+    },
+    {
       "name": "jei-1.20.1-forge-15.20.0.112.jar",
       "type": "mod",
       "path": "mods/",
-      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.2/jei-1.20.1-forge-15.20.0.112.jar",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/jei-1.20.1-forge-15.20.0.112.jar",
       "sha256": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
       "size": 1385600
+    },
+    {
+      "name": "lostcities-1.20-7.4.11.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/lostcities-1.20-7.4.11.jar",
+      "sha256": "7a3f3c55de1b869380fdbdef4fa8865bc1daf3ae6c66fab1056ea44d6534b4fb",
+      "size": 1253469
+    },
+    {
+      "name": "mobsunscreen-forge-1.20.1-3.1.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/mobsunscreen-forge-1.20.1-3.1.1.jar",
+      "sha256": "92595dacd3a5fccefb61819453165066f978537815a2ddd4b4d74c7d0c699c91",
+      "size": 11361
+    },
+    {
+      "name": "modelfix-1.15.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/modelfix-1.15.jar",
+      "sha256": "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16",
+      "size": 45246
+    },
+    {
+      "name": "modernfix-forge-5.26.2+mc1.20.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/modernfix-forge-5.26.2+mc1.20.1.jar",
+      "sha256": "e9f00f787a78a976b8493eafeee63ff08fadb31bcb0a1e938d7b940d17ac70ae",
+      "size": 826829
+    },
+    {
+      "name": "moonlight-1.20-2.16.28-forge.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/moonlight-1.20-2.16.28-forge.jar",
+      "sha256": "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278",
+      "size": 1393921
     },
     {
       "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "type": "mod",
       "path": "mods/",
-      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.2/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
       "size": 76237
+    },
+    {
+      "name": "netherportalfix-forge-1.20-13.0.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/netherportalfix-forge-1.20-13.0.1.jar",
+      "sha256": "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e",
+      "size": 217831
+    },
+    {
+      "name": "OptiFine_1.20.1_HD_U_I6.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/OptiFine_1.20.1_HD_U_I6.jar",
+      "sha256": "0b67cb670aedf2e55a982f3d52b6d53e46791a0c984aa1d2ee58100fc9bfc650",
+      "size": 7145205
+    },
+    {
+      "name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
+      "size": 206984
+    },
+    {
+      "name": "starlight-1.1.2+forge.1cda73c.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/starlight-1.1.2+forge.1cda73c.jar",
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
+      "size": 110583
+    },
+    {
+      "name": "tacz-1.20.1-1.1.7-hotfix2.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/tacz-1.20.1-1.1.7-hotfix2.jar",
+      "sha256": "fc5f1dab09afd5399604db0f60845d41d46cf015c158cbc12e7ef716cf6bdb46",
+      "size": 52426062
+    },
+    {
+      "name": "Terralith_1.20.x_v2.5.4.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Terralith_1.20.x_v2.5.4.jar",
+      "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "size": 3156901
+    },
+    {
+      "name": "Trapcraft-1.20.1-2.10.2.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Trapcraft-1.20.1-2.10.2.jar",
+      "sha256": "1cd47832bfe5ae0a559c03b299c9da0180e8a93a6afee7dfb6c92d9043de46f0",
+      "size": 618746
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.6.15.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/voicechat-forge-1.20.1-2.6.15.jar",
+      "sha256": "32ad8a005a37c38eab378dfbf60d8508cafaf59f790f131f30ae53a96c32bcc2",
+      "size": 4902630
+    },
+    {
+      "name": "zombieawareness-1.20.1-1.13.1.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/zombieawareness-1.20.1-1.13.1.jar",
+      "sha256": "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586",
+      "size": 291139
+    },
+    {
+      "name": "Zombies During Daytime 1.4.jar",
+      "type": "mod",
+      "path": "mods/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Zombies During Daytime 1.4.jar",
+      "sha256": "b48e31f2c41ea0d3366ce4f05b02879a0e8e25e8483af807bd0a6dddc0b3c592",
+      "size": 24701
+    },
+    {
+      "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
+      "type": "shaderpack",
+      "path": "shaderpacks/",
+      "url": "https://github.com/Arthur640-ctrl/Ruins-Updater/releases/download/v1.0.3/Hysteria-Shaders-Universal-v1.2.1.zip",
+      "sha256": "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2",
+      "size": 1578052
     }
   ]
 }
